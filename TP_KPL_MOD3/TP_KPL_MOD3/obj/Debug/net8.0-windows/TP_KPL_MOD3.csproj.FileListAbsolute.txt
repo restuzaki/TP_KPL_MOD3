@@ -1,0 +1,16 @@
+D:\Kpl\TP_KPL_MOD3\TP_KPL_MOD3\obj\Debug\net8.0-windows\TP_KPL_MOD3.Form1.resources
+D:\Kpl\TP_KPL_MOD3\TP_KPL_MOD3\obj\Debug\net8.0-windows\TP_KPL_MOD3.csproj.GenerateResource.cache
+D:\Kpl\TP_KPL_MOD3\TP_KPL_MOD3\obj\Debug\net8.0-windows\TP_KPL_MOD3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kpl\TP_KPL_MOD3\TP_KPL_MOD3\obj\Debug\net8.0-windows\TP_KPL_MOD3.AssemblyInfoInputs.cache
+D:\Kpl\TP_KPL_MOD3\TP_KPL_MOD3\obj\Debug\net8.0-windows\TP_KPL_MOD3.AssemblyInfo.cs
+D:\Kpl\TP_KPL_MOD3\TP_KPL_MOD3\obj\Debug\net8.0-windows\TP_KPL_MOD3.csproj.CoreCompileInputs.cache
+D:\Kpl\TP_KPL_MOD3\TP_KPL_MOD3\bin\Debug\net8.0-windows\TP_KPL_MOD3.exe
+D:\Kpl\TP_KPL_MOD3\TP_KPL_MOD3\bin\Debug\net8.0-windows\TP_KPL_MOD3.deps.json
+D:\Kpl\TP_KPL_MOD3\TP_KPL_MOD3\bin\Debug\net8.0-windows\TP_KPL_MOD3.runtimeconfig.json
+D:\Kpl\TP_KPL_MOD3\TP_KPL_MOD3\bin\Debug\net8.0-windows\TP_KPL_MOD3.dll
+D:\Kpl\TP_KPL_MOD3\TP_KPL_MOD3\bin\Debug\net8.0-windows\TP_KPL_MOD3.pdb
+D:\Kpl\TP_KPL_MOD3\TP_KPL_MOD3\obj\Debug\net8.0-windows\TP_KPL_MOD3.dll
+D:\Kpl\TP_KPL_MOD3\TP_KPL_MOD3\obj\Debug\net8.0-windows\refint\TP_KPL_MOD3.dll
+D:\Kpl\TP_KPL_MOD3\TP_KPL_MOD3\obj\Debug\net8.0-windows\TP_KPL_MOD3.pdb
+D:\Kpl\TP_KPL_MOD3\TP_KPL_MOD3\obj\Debug\net8.0-windows\TP_KPL_MOD3.genruntimeconfig.cache
+D:\Kpl\TP_KPL_MOD3\TP_KPL_MOD3\obj\Debug\net8.0-windows\ref\TP_KPL_MOD3.dll
